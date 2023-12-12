@@ -1,2 +1,2 @@
 # HTSanalysis
-High Throughput Screen analysis (Work in Progress!!)
+High Throughput Screen analysis (Under development!)
