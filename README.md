@@ -1,3 +1,5 @@
 # AnalyzerHTS
 
-High Throughput Screen analysis (Under development!)
+**Under development!**  
+
+Repository for analysis of image data from High Throughput Screens.
